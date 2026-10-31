@@ -28,7 +28,7 @@ description: "优化已有口播稿、公众号文章和短文案的语言表达
 - 需要更细的操作、理解相反建议或校准声音时，按路由读 [来源深化卡](references/practice-notes.md) 的相应小节。
 - 原材料中的强断言、全部删除、固定次数、效果数字和热词属于作者或案例语境，不自动成为硬规则。根据当前目标、媒介、事实和原意取舍；特殊边界见 [原资料边界](references/source-boundaries.md)。
 - 来源追踪和覆盖说明在 [方法对应关系](references/coverage.md)；日常不需加载。卡片中的 `[[来源 slug]]` 可供回查，不要求联网。
-- 本地包能独立使用。若当前环境另有“用 Wiki 必须先读入口”的约定，遵守该约定：通过 `gbrain_sc_media.get_page`（Claude Code 里同一个库叫 `sc-media-kb`，即 `mcp__sc-media-kb__get_page`）读取 `workflows/creation_teacher`、`concepts/body_expression_quick` 和所选 `concepts/body_expression#编号`；同轮已读且未变的内容复用。入口不可用时说明使用本地整理版继续，不把失败当成没有资料。仅为核对来源／用户要求更新时延伸阅读，不默认重新搜库或上网。
+- 默认使用本地包，无需作者的 Wiki 连接。只有用户已配置并选择在线 Wiki 时才回查。若当前环境另有“用 Wiki 必须先读入口”的约定，遵守该约定：通过 `gbrain_sc_media.get_page`（Claude Code 里同一个库叫 `sc-media-kb`，即 `mcp__sc-media-kb__get_page`）读取 `workflows/creation_teacher`、`concepts/body_expression_quick` 和所选 `concepts/body_expression#编号`；同轮已读且未变的内容复用。入口不可用时说明使用本地整理版继续，不把失败当成没有资料。仅为核对来源／用户要求更新时延伸阅读，不默认重新搜库或上网。
 - 不修改 Wiki，不自动归档稿件、保存长期偏好或发布内容。
 
 ## 工作方式

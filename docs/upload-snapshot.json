@@ -1,0 +1,110 @@
+{
+  "skill": "expression-polish",
+  "snapshot_date": "2026-10-31T12:42:55.489310+00:00",
+  "source_kind": "installed local skill",
+  "included_source_files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "e8e1692e1bd6e4a1d7bcdff7db0435b03ebe7fd887c56d42feeb864a2bc72072",
+      "bytes": 9875
+    },
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "6186c483d2c384b2849b21b2c6ff80530d879af006a36b92869cf71b3c642f1d",
+      "bytes": 272
+    },
+    {
+      "path": "references/coverage.md",
+      "sha256": "180a155e33b0346a7fe91ba80832d9096e45f2ec0517f285456486b4d9147c8b",
+      "bytes": 7415
+    },
+    {
+      "path": "references/media-and-review.md",
+      "sha256": "80b6e7e5536e5c52030af6d22e7bfdf1d839c5e01a8a839acbbad879c0d9f248",
+      "bytes": 7623
+    },
+    {
+      "path": "references/methods/01-natural.md",
+      "sha256": "9d9ef7ba5efa1f06f90599b4f880ec68e688c4d4273d398af94470685332d50a",
+      "bytes": 7004
+    },
+    {
+      "path": "references/methods/02-clarity.md",
+      "sha256": "02f28b48f0bc6ed7c802666f53a87e4547759010975d21545cd2fe497ff8ca2d",
+      "bytes": 7598
+    },
+    {
+      "path": "references/methods/03-evidence.md",
+      "sha256": "437b210c9b5e15788e10c691167d6609d8da4d9c82b0679306b162b74964c4e4",
+      "bytes": 12625
+    },
+    {
+      "path": "references/methods/04-emotion.md",
+      "sha256": "1ce61e7c6001d0f339df98aedaf45cb75c1ec639640117d3b1e0d65ed6340f6f",
+      "bytes": 9135
+    },
+    {
+      "path": "references/methods/05-rhythm.md",
+      "sha256": "ab23b7c051d061b4cb4f9f18f1d6670037820a16d179ca540607572355c4c87c",
+      "bytes": 8760
+    },
+    {
+      "path": "references/methods/06-examples.md",
+      "sha256": "ddb16598c8d8e20dc289662618f12bf2aa2165bd2cb960133912bdc1546ea2ff",
+      "bytes": 7082
+    },
+    {
+      "path": "references/methods/07-voice.md",
+      "sha256": "24bb94ab1697d1179f2cb45dcbb46252d554c8a5c3e00524e8e37078973d72eb",
+      "bytes": 12055
+    },
+    {
+      "path": "references/performance.md",
+      "sha256": "00b28d05999a69c54f7e826f853373bcb0cc2a801872f31646a14b62cf7a53bc",
+      "bytes": 2679
+    },
+    {
+      "path": "references/practice-notes.md",
+      "sha256": "cf4b3c82bc8d6ef61ce171592d8b36d65c468ec351e37acbb479c168e53290a9",
+      "bytes": 12570
+    },
+    {
+      "path": "references/provenance.json",
+      "sha256": "5cf232de47e6154a784f2d579a437c84ccf1d16aa45ec43e0505d2b8e4a9b7b1",
+      "bytes": 22943
+    },
+    {
+      "path": "references/router.md",
+      "sha256": "de82a98f302be8b21ec55ffb73d2dca9bca766cdb2064e629ca2aa6310aae721",
+      "bytes": 5531
+    },
+    {
+      "path": "references/source-boundaries.md",
+      "sha256": "a374aede6424539e455815c2864c01ecfc25b382c833234e463ce2f3fe14dfd3",
+      "bytes": 4218
+    }
+  ],
+  "excluded_source_files": [],
+  "verification_scope": "Byte-for-byte copy of included source files; no claim of live provider or writing quality validation.",
+  "validation_notes": [
+    {
+      "command": "git diff --cached --check",
+      "exit_code": 2,
+      "findings": [
+        "references/media-and-review.md:79: new blank line at EOF.",
+        "references/methods/01-natural.md:61: new blank line at EOF.",
+        "references/methods/02-clarity.md:72: new blank line at EOF.",
+        "references/methods/03-evidence.md:114: new blank line at EOF.",
+        "references/methods/04-emotion.md:91: new blank line at EOF.",
+        "references/methods/05-rhythm.md:88: new blank line at EOF.",
+        "references/methods/06-examples.md:63: new blank line at EOF.",
+        "references/methods/07-voice.md:113: new blank line at EOF.",
+        "references/performance.md:17: new blank line at EOF.",
+        "references/practice-notes.md:108: new blank line at EOF.",
+        "references/router.md:53: new blank line at EOF.",
+        "references/source-boundaries.md:35: new blank line at EOF."
+      ],
+      "disposition": "Accepted existing source-only blank lines at EOF to preserve imported source bytes; no semantic changes."
+    }
+  ]
+}

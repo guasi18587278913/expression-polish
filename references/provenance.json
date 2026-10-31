@@ -1,0 +1,565 @@
+{
+  "captured_date": "2026-10-24",
+  "access": "gbrain_sc_media.get_page",
+  "source_pages": [
+    {
+      "slug": "workflows/creation_teacher",
+      "title": "自媒体创作老师",
+      "content_hash": "d6cc8e4a351a8ab4521ec59840640e65a2507a8bad8e166d203ac8a9c38e9577",
+      "updated_at": "2026-10-22T11:06:39.771Z"
+    },
+    {
+      "slug": "workflows/work_diagnosis",
+      "title": "作品问诊",
+      "content_hash": "e6c05612986f057c5d8b9f5ece86fe5ed96cf327fc5552dbe33d64e11073b311",
+      "updated_at": "2026-09-20T11:34:57.635Z"
+    },
+    {
+      "slug": "concepts/body_expression",
+      "title": "正文表达",
+      "content_hash": "c53d1f2ebc3e70207284ff8a921a18ebf0f127b104058ccd8a8dda9fb2e244e9",
+      "updated_at": "2026-10-19T03:42:54.125Z"
+    },
+    {
+      "slug": "concepts/body_expression_quick",
+      "title": "正文表达速查",
+      "content_hash": "fb787bcf840e6299c1ee30e47d0caf0e45c1455e969fc65cb6c0d8899d3e0a15",
+      "updated_at": "2026-10-21T02:24:04.266Z"
+    },
+    {
+      "slug": "methods/style_guide/style-guide-one-thought-per-sentence",
+      "title": "口语节奏：先完整，再简洁",
+      "content_hash": "c2b0db84179f8f095917498e493cb0f1a4e5d9ecfe7347e89c31e62f0dbc7085",
+      "updated_at": "2026-07-28T14:34:46.469Z"
+    },
+    {
+      "slug": "methods/style_guide/style-guide-news-human-translation",
+      "title": "资讯解读：先翻译成人话，再说拍什么",
+      "content_hash": "c2a5948edd153937fa5048dfe7658bfe7306266e0b7a247243cd216124309ed5",
+      "updated_at": "2026-07-28T14:35:34.027Z"
+    },
+    {
+      "slug": "methods/style_guide/style-guide-reader-side",
+      "title": "立场与共情：站在具体的人这边",
+      "content_hash": "1d7a37b8ccf5c309b410684a41f60c304274934dee3cbd54d79d3cc93e6d35da",
+      "updated_at": "2026-07-28T14:34:17.850Z"
+    },
+    {
+      "slug": "methods/style_guide/style-guide-force-with-facts",
+      "title": "事实边界：有力不等于瞎编",
+      "content_hash": "c3ac0e268171f1f31fdb3d20c38e9b6cc9da6f94c3fc35fc19cf6ea06576d75c",
+      "updated_at": "2026-07-28T14:51:42.881Z"
+    },
+    {
+      "slug": "methods/style_guide/style-guide-emotional-spoken-editorial",
+      "title": "咪蒙历史标题提炼：强情绪口语表达总则",
+      "content_hash": "54b3d434572a99b3387f25b9404bec5904ab47c201b78555974b5d03df47507f",
+      "updated_at": "2026-07-28T14:51:44.448Z"
+    },
+    {
+      "slug": "methods/revision_action/method-457805ff0918be72",
+      "title": "将书面语改为口语化表达",
+      "content_hash": "1fb8b605d00c7bff60371a0956de8e7a4345f26508f9297016895ad797aeed23",
+      "updated_at": "2026-09-09T10:57:02.963Z"
+    },
+    {
+      "slug": "methods/revision_action/method-172a8c2759585a41",
+      "title": "剪辑删除无意义口头禅，保留话赶话节奏",
+      "content_hash": "b04ff466bb1d687140e01a16e275e28de4e1063c866231824129c169d9064cc5",
+      "updated_at": "2026-09-09T10:57:03.007Z"
+    },
+    {
+      "slug": "methods/method_principle/method-dd72f81dfea22ca2",
+      "title": "文案顺序决定表达意图",
+      "content_hash": "017aeba5f88d4426ea0de2118e6213a70314e48576d87a7ca35480f25c012a18",
+      "updated_at": "2026-09-09T10:57:03.231Z"
+    },
+    {
+      "slug": "methods/method_principle/method-8a94e78fd511e8c3",
+      "title": "五个追问引导IP输出具体内容",
+      "content_hash": "dc771a0409bf893d48a9bba822aeee5ba36bd377cf294048351fad985703b467",
+      "updated_at": "2026-09-09T10:57:03.734Z"
+    },
+    {
+      "slug": "sources/book/lidan-055aaaba1caf42be",
+      "title": "3 请写逐字稿",
+      "content_hash": "07de344f4f714e951a44fb9838755a8b7d7bbed6046c4b75d16ac886c4e77549",
+      "updated_at": "2026-07-27T18:51:33.827Z"
+    },
+    {
+      "slug": "sources/book/lidan-1c3cf5621de5436a",
+      "title": "11 永恒的难题终于来了：到底什么是节奏",
+      "content_hash": "57e21264ca0a5161a7a3f794c76f15404561754060d040419ba6b1d39e19f2ad",
+      "updated_at": "2026-07-27T18:51:33.825Z"
+    },
+    {
+      "slug": "sources/book/lidan-67a1782e32996629",
+      "title": "12 比永恒更难的难题：到底什么是风格",
+      "content_hash": "e1c84498471ab1e7ae6360d7419cefcab2fac198947b48062c544a316bc3b752",
+      "updated_at": "2026-07-27T18:51:33.756Z"
+    },
+    {
+      "slug": "sources/book/lidan-7039fee9c696a515",
+      "title": "16 开读稿会的正确方法",
+      "content_hash": "50a8fa70d9c353fa67c1f937a3e18d0eeb698e724fa326ad3fd347c421393f8c",
+      "updated_at": "2026-07-27T18:51:33.747Z"
+    },
+    {
+      "slug": "sources/community/xiaoe-569b73d7052bbd6d",
+      "title": "关于写作的这些真相你一定不知道",
+      "content_hash": "d39c1127ea91227d056e4abe38a086dc24019eeb7a199a1c86e3e140204e76c7",
+      "updated_at": "2026-07-27T20:08:21.553Z"
+    },
+    {
+      "slug": "sources/community/zsxq-45544221545128888",
+      "title": "文案技巧-让高频词语高频出现 小学生都会的文案技巧",
+      "content_hash": "587b0cacd58658ab4753f48d21809f388cb6255ff731283ad1ae4b7f43b40b09",
+      "updated_at": "2026-09-09T11:27:29.098Z"
+    },
+    {
+      "slug": "sources/community/zsxq-22258822885284281",
+      "title": "跟孙宇晨学写文案，十个技巧，够普通人练一辈子",
+      "content_hash": "3b1aca72fe3fe7561713aadacbcc26b461178c54738a692a6625fc39029480ed",
+      "updated_at": "2026-09-09T11:27:30.393Z"
+    },
+    {
+      "slug": "sources/community/zsxq-45548581245488218",
+      "title": "口播做不好的人，大多数不是不会说，而是太会写了",
+      "content_hash": "2be1f6b538c246eecf241630442828785ca7e6f85e763daeddfc39a968a8fdce",
+      "updated_at": "2026-10-18T02:54:28.629Z"
+    },
+    {
+      "slug": "sources/course/xuehui-52a9a42a9dd4e640",
+      "title": "8.4 线下课｜第 2 段（10:43 开拍，49 分钟）｜DJI_20250804104315_0059_D _ev (1).mp4",
+      "content_hash": "243ff9120509da82530d0daeb567b094e34bfc1965a7dab0b41d4e55d8f0357a",
+      "updated_at": "2026-07-27T18:51:30.207Z"
+    },
+    {
+      "slug": "methods/diagnosis_rule/method-e16e70bd41269417",
+      "title": "声音浮在半空中的问题",
+      "content_hash": "c5b6ab490233d079205a16d4f8edcc3779f01101565f6bc23e7b9769e7d280f2",
+      "updated_at": "2026-09-09T10:57:04.539Z"
+    }
+  ],
+  "core_methods": [
+    {
+      "number": 1,
+      "title": "术语、圈内词换成对方听得懂的话",
+      "source": "concepts/body_expression#1",
+      "file": "references/methods/01-natural.md",
+      "sha256": "8b8d4e13a153e3d649a85b89cff2862502408717dd669614779694d8fed4efed",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 2,
+      "title": "用平时说话的口气写，不用书面语和报告腔",
+      "source": "concepts/body_expression#2",
+      "file": "references/methods/01-natural.md",
+      "sha256": "d39bde99911927a2121b1ef027ae3db853dc5359688942c35863eabd9bab586c",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 3,
+      "title": "用嘴写稿：先说出来再写，写完念一遍",
+      "source": "concepts/body_expression#3",
+      "file": "references/methods/01-natural.md",
+      "sha256": "1ab1d896c13aa369761c74777eda83f17d0eb85d7458cf1efce8bc0ac8680606",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 4,
+      "title": "一句只说一件事",
+      "source": "concepts/body_expression#4",
+      "file": "references/methods/01-natural.md",
+      "sha256": "64585927d9bc71bdaa08ddaf1986d2d7a51feff8bf7beba89c39ff813de91715",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 5,
+      "title": "用有劲的动词",
+      "source": "concepts/body_expression#5",
+      "file": "references/methods/01-natural.md",
+      "sha256": "b0a328ea76c9e8026846dbc1c814367bf03507787592d20b13a246597b4a44da",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 6,
+      "title": "先交代背景，讲清来龙去脉",
+      "source": "concepts/body_expression#6",
+      "file": "references/methods/02-clarity.md",
+      "sha256": "d194fbc0b4bb7bbbaa12ee0cfe6bc770080e7427fa7f64b5b29bc100b6f74440",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 7,
+      "title": "指代和对象说清楚",
+      "source": "concepts/body_expression#7",
+      "file": "references/methods/02-clarity.md",
+      "sha256": "7441875cf5258d8ef20eaf06dff2be116cb1f5aed384fa3ea8a3174b5d27cd32",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 8,
+      "title": "陌生的东西先说清是什么",
+      "source": "concepts/body_expression#8",
+      "file": "references/methods/02-clarity.md",
+      "sha256": "4432f83a6294db561cc3e615244506d75001c1e2eca58cd38602c85565c560b5",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 9,
+      "title": "先说结论再讲原因",
+      "source": "concepts/body_expression#9",
+      "file": "references/methods/02-clarity.md",
+      "sha256": "53c5973f1c2a021b3646b21304a0ee879d9bc32f9919a7934d3a6112decd3abf",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 10,
+      "title": "做法说到能照做，跟上为什么和效果",
+      "source": "concepts/body_expression#10",
+      "file": "references/methods/02-clarity.md",
+      "sha256": "c9052848cad0c7f6bb283c3ca67fa2ffd0947709e67a92f0c416b3cbd87c38b0",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 11,
+      "title": "前后接得上",
+      "source": "concepts/body_expression#11",
+      "file": "references/methods/02-clarity.md",
+      "sha256": "f10e90860d8f1dfa0479e11aceff3527eee37f25016eb34165acce2ae80bbada",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 12,
+      "title": "给看得见的证据",
+      "source": "concepts/body_expression#12",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "8487ee1cc2f07bc14a1eefb0fded372ff6c153d2ce165e2b88dbe898db442b21",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 13,
+      "title": "观点要有论据：真事一正一反，角度别重复",
+      "source": "concepts/body_expression#13",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "c345f6866f384975715087b1a806bd0838a1a44ef9d457af9fc8acb86a8ea9ec",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 14,
+      "title": "数字说具体，账算给人看",
+      "source": "concepts/body_expression#14",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "b964d0ee7730954db6ac747e444a0c57b014862db0075cca1896d476ed1bcced",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 15,
+      "title": "亮明身份，借别人背书",
+      "source": "concepts/body_expression#15",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "802be4dd925db93937f90342663a6d9718a9409074d73a88407d477dc04f2f92",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 16,
+      "title": "原话直接放进来",
+      "source": "concepts/body_expression#16",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "f5428be3e53b420e79cfddff59ada55af24bb5deeab02b9853c0ad7d8a203816",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 17,
+      "title": "说清成立条件",
+      "source": "concepts/body_expression#17",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "36ca6dac73c43e4647b004407a2ca6ce62d01dcc6760354b8a8929b6460ec67a",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 18,
+      "title": "不夸大，好坏都说",
+      "source": "concepts/body_expression#18",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "99b2a0101ea4c6d4bab249efda301f7e8fa20e6e3e83b7b7f9f1d47f6bac436a",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 19,
+      "title": "不编，分清事实、推测和转述",
+      "source": "concepts/body_expression#19",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "7c12add5f72c0cd2b5d1514c131b3bd6098b6664ce0c65a7e5822bf71ff2bee8",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 20,
+      "title": "先把反对的声音说出来",
+      "source": "concepts/body_expression#20",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "45ab07e76ec7e4638dbb4e894c8357d197f9867c4341d9c7b48978f09127ddae",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 21,
+      "title": "感受和评价换成事实",
+      "source": "concepts/body_expression#21",
+      "file": "references/methods/03-evidence.md",
+      "sha256": "2d1a5811a3992d97701d8f2cc6c4690496670b062796fab2ecae4b64c721c661",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 22,
+      "title": "抽象词换成画面",
+      "source": "concepts/body_expression#22",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "0939c6cccff3e9315a129422ed06b8a45a99e2eed9c19f264da8d64282832d3c",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 23,
+      "title": "替观众说出他说不出口的话",
+      "source": "concepts/body_expression#23",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "8cba5d52ff7b8ff2b5b9dde2875b37492681fcfe7d695db12ee624b1971dd6f6",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 24,
+      "title": "用观众的原话",
+      "source": "concepts/body_expression#24",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "7858b4ce6186052f3015f4336df6285211d2e03587f0bcfaa4d3a1689042d546",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 25,
+      "title": "挑大家都经历过的事，往细里说",
+      "source": "concepts/body_expression#25",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "d6e5ed01dd3206928ecfef68ad6ee8f065d6aec47a9b41f8cb6439679292ce3d",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 26,
+      "title": "情绪先于道理",
+      "source": "concepts/body_expression#26",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "f06b4d85670e8fe98185d9021256c8723117078334871a9e4fec9d30436c314d",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 27,
+      "title": "情绪有起有落",
+      "source": "concepts/body_expression#27",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "42159ca7ac7dec6a1d64f50adab4bbff5e3406f47bfb1a696ff66056c37a2e5f",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 28,
+      "title": "情绪落到物件和动作上，关键处留白",
+      "source": "concepts/body_expression#28",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "d554601402ceb1603a01f66efe37d6ffccb77db21160259fa8dcb65a21d932b3",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 29,
+      "title": "别煽情、别卖惨",
+      "source": "concepts/body_expression#29",
+      "file": "references/methods/04-emotion.md",
+      "sha256": "6a68cc70aa0415689d3c2ddc2d37af36df8d9367a855c3ef03d41941fa107e25",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 30,
+      "title": "删废话和重复的话",
+      "source": "concepts/body_expression#30",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "7e01adc84094871a2199811ee21f1204a1c1a91bad86123d3659ea07034d7205",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 31,
+      "title": "信息要密，一条只抓一个重点",
+      "source": "concepts/body_expression#31",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "fc28ea47b7521e7e9b1e5049d71bc98a9a441b76f284eb303e429b305b8fafae",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 32,
+      "title": "同一个句式排下去",
+      "source": "concepts/body_expression#32",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "48397f7236ccd776ee8d6edf52b407ed3fcaabd496b79161fc2716a407e1c892",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 33,
+      "title": "一层比一层深",
+      "source": "concepts/body_expression#33",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "0b99d657d41b8a3e58ddc8135c4f328207b28ce275caf3c18e77d82c9d60e459",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 34,
+      "title": "先顺着想，再翻过来",
+      "source": "concepts/body_expression#34",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "302bba5437bfe0540f78589a0c67bf78992e8448c410ca9a02d1b8bb4b6807c4",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 35,
+      "title": "长短句交替，重点放后半句",
+      "source": "concepts/body_expression#35",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "c610b3db960cb091318b3119fddec7c06d4176f6e71ef87fb8b919672ee2f00d",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 36,
+      "title": "一段收一句短话",
+      "source": "concepts/body_expression#36",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "add3387fc17c2b61790aa2476b60ce0987af4b97b2629df6b31684b7d4505dd1",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 37,
+      "title": "自问自答",
+      "source": "concepts/body_expression#37",
+      "file": "references/methods/05-rhythm.md",
+      "sha256": "5c19048404d10ecf6d1009b555de49fceb30e175e3d40591e7602c3069b4b901",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 38,
+      "title": "打比方：只用一听就懂的",
+      "source": "concepts/body_expression#38",
+      "file": "references/methods/06-examples.md",
+      "sha256": "68ef614f5474fbb5be4d4bb18d26e4aa1aeea294f5726079630116151eefe5c1",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 39,
+      "title": "做对比",
+      "source": "concepts/body_expression#39",
+      "file": "references/methods/06-examples.md",
+      "sha256": "383af50a73423a49e335e5cd854414475377bb89ebd7f3cfdd93adc502da8a27",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 40,
+      "title": "举例子",
+      "source": "concepts/body_expression#40",
+      "file": "references/methods/06-examples.md",
+      "sha256": "25a2acee8026513ebe5c5ad2348870707799f6af2df3cb5b4a8d0c5dc510bf96",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 41,
+      "title": "说具体的人和事",
+      "source": "concepts/body_expression#41",
+      "file": "references/methods/06-examples.md",
+      "sha256": "565918e928b8bb3151204d9fa1dae5193f6baf8a12c20091bb69f65e46e1a6f9",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 42,
+      "title": "卖点说具体，放进使用场景",
+      "source": "concepts/body_expression#42",
+      "file": "references/methods/06-examples.md",
+      "sha256": "22f561c14265aa2e2a389db8a43758161036dccde40aed65d7b5c96542b04bd7",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 43,
+      "title": "对着观众说：你、我们、是不是",
+      "source": "concepts/body_expression#43",
+      "file": "references/methods/07-voice.md",
+      "sha256": "aee7d761bc4e27724d01aa3cff2e8f90390b37aed3244de57c01fdb7c0efe9c9",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 44,
+      "title": "用第一人称讲",
+      "source": "concepts/body_expression#44",
+      "file": "references/methods/07-voice.md",
+      "sha256": "378b912510a7ac76ee568d33005b8c54839b3760d99c162685d119dbc5dc223b",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 45,
+      "title": "正话反说",
+      "source": "concepts/body_expression#45",
+      "file": "references/methods/07-voice.md",
+      "sha256": "5b03e2be78bf439f21b05369861867bacd071a5fc3547889bfbde1506d6379ba",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 46,
+      "title": "带点幽默和自嘲，别炫耀",
+      "source": "concepts/body_expression#46",
+      "file": "references/methods/07-voice.md",
+      "sha256": "b8013acc267a0f94fd579c227ca089f003db0f14690b73d227397520b84ba586",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 47,
+      "title": "别说教，平视着说",
+      "source": "concepts/body_expression#47",
+      "file": "references/methods/07-voice.md",
+      "sha256": "afe50ba987d3236e6babab78313d19ec59e191804656f2c19589ed87601d1651",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 48,
+      "title": "淡化推销感",
+      "source": "concepts/body_expression#48",
+      "file": "references/methods/07-voice.md",
+      "sha256": "55a62ff197d9dcc47c802e70cfb9f91132335f94efe404aa9af94a6f965324fe",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 49,
+      "title": "让别人开口：对话、角色、换视角",
+      "source": "concepts/body_expression#49",
+      "file": "references/methods/07-voice.md",
+      "sha256": "f803ba49954267772b6b1c3a3bbd2cb34873a21f66bf3f05fcea7535be66a5a8",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 50,
+      "title": "说出心里的念头",
+      "source": "concepts/body_expression#50",
+      "file": "references/methods/07-voice.md",
+      "sha256": "9c51f7ea3aa5628b3c26800a2a867c3122599471b43cf77a15ea52f3ab250a54",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 51,
+      "title": "立场鲜明，敢下判断",
+      "source": "concepts/body_expression#51",
+      "file": "references/methods/07-voice.md",
+      "sha256": "ad8cc04bdb66d57295d50e733e745eaaf7352461b9937adbf4599363b032e8f2",
+      "preservation": "complete source method section"
+    },
+    {
+      "number": 52,
+      "title": "像你自己：真诚，带上自己的态度",
+      "source": "concepts/body_expression#52",
+      "file": "references/methods/07-voice.md",
+      "sha256": "2b63efd6d66d9c6aabcddcb06f3ba57aa9ffdae5d99b8c995f58336c992a009a",
+      "preservation": "complete source method section"
+    }
+  ],
+  "performance_count": 6,
+  "supplement_count": 12,
+  "limits": "Coverage is of this snapshot and identified expression-related sources, not every Wiki page or verified user outcomes."
+}
